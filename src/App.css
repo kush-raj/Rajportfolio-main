@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "GilroyRegular";
+   
+    box-sizing: border-box;
+  
+}
+
+
+
+
+#blrone {
+    position: fixed;
+    right: 0%;
+    bottom: 50%;
+    width: 60px;
+    height: 60px;
+    opacity: .3;
+    background-color: rebeccapurple;
+}
+#blrtwo {
+    position: fixed;
+    left: 2%;
+    bottom: 70%;
+    width: 60px;
+    height: 60px;
+    opacity: .4;
+    -webkit-filter: blur(35px) saturate(10);
+    filter: blur(35px) saturate(10);
+    background-color: rgb(255, 194, 114);
+}
+.blr {
+    -webkit-filter: blur(25px) saturate(10);
+    filter: blur(25px) saturate(10);
+}
