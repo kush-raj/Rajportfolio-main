@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import int from './assets/C Certificate.png';
 import ud from './assets/Web Certificate.png';
 import r from './assets/react.jpg';
-import p from './assets/java Certificate.png';
+import p from './assets/javaCertificate.png';
 import q from './assets/Unified.jpg';
 
 const CertificateCard = ({ cert }) => {
