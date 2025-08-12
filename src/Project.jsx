@@ -8,13 +8,13 @@ const projects = [
     image: "/img1project.png",
     github: "https://github.com/kush-raj/Rajportfolio-main.git",
   },
-  {
-    title: "E-commerce store(BAGGIFY)",
-    description: "MERN-stack app with Node.js , MongoDB and  payment gateway integration.",
-    tags: ["Node.js", "MongoDB", "Express","React.js","Gsap","css","stripe  "],
-    image: "/img2proj.png.png",
-    github: "https://github.com/Sumitt7607/Baggify",
-  },
+  // {
+  //  title: "E-commerce store(BAGGIFY)",
+  //  description: "MERN-stack app with Node.js , MongoDB and  payment gateway integration.",
+  //  tags: ["Node.js", "MongoDB", "Express","React.js","Gsap","css","stripe  "],
+  //  image: "/img2proj.png.png",
+  //  github: "https://github.com/Sumitt7607/Baggify",
+  // },
   // {
   //   title: "LoG-Tantra ",
   //   description: "An platForm where people can express their thoughts, feelings.",
