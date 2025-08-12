@@ -180,7 +180,7 @@ function Hero() {
         <a href="https://wa.me/7991286639?text=Hello%20there!" target="_blank" rel="noopener noreferrer">
           <img className="img-src" src={hi} alt="Say Hi on WhatsApp" />
         </a>
-        <a className='body-src' href="/sumit_kushwaha.pdf" download="Resume.pdf">
+        <a className='body-src' href="/Raj_Resume.pdf" download="Resume.pdf">
           <img src={res} alt="Download Resume" />
         </a>
       </div>
@@ -195,7 +195,7 @@ function Hero() {
         <button
           className="connect"
           onClick={() =>
-            window.open('https://www.linkedin.com/in/sumit-kushwaha-046265291', '_blank')
+            window.open('https://www.linkedin.com/in/raj-kushwaha-382577246', '_blank')
           }
         >
           Connect with me
