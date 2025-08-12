@@ -5,8 +5,8 @@ const projects = [
     title: "Portfolio Website",
     description: "An beautiful sleek personal portfolio built with MERN stack and GSAP animations.",
     tags: ["React", "GSAP", "CSS", "Node.js", "Express.js", "MongoDB"],
-    image: "/img1proj.png",
-    github: "https://github.com/yourusername/portfolio-website",
+    image: "/img1project.png",
+    github: "https://github.com/kush-raj/Rajportfolio-main.git",
   },
   {
     title: "E-commerce store(BAGGIFY)",
@@ -41,14 +41,14 @@ const projects = [
     description: "An platForm which gives the weather information",
     tags: ["Html","css","javaScript"],
     image: "/img5proj.png",
-    github: "https://github.com/Sumitt7607/weather.git",
+    github: "https://github.com/kush-raj/weather-main.git",
   },
   {
     title: "Tic-Tac-Toe game",
     description: "tic tac toe game ",
     tags: ["Html","css","javaScript"],
     image: "/ticTac.png",
-    github: "https://github.com/Sumitt7607/TIc_TAC_TOE.git",
+    github: "https://github.com/kush-raj/TIc_TAC_TOE-main.git",
   },
 
   // Add more projects here...
